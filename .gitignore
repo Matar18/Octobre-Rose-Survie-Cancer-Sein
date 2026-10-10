@@ -1,0 +1,7 @@
+# Données : à télécharger depuis Kaggle (non redistribuées)
+data/*.csv
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
